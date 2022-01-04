@@ -51,3 +51,5 @@
 /Users/annapittman/Desktop/c-sharp-to-do-list-dotnet5-week-3/ToDoList/obj/Debug/net5.0/Razor/Views/Categories/Delete.cshtml.g.cs
 /Users/annapittman/Desktop/c-sharp-to-do-list-dotnet5-week-3/ToDoList/obj/Debug/net5.0/Razor/Views/Categories/Details.cshtml.g.cs
 /Users/annapittman/Desktop/c-sharp-to-do-list-dotnet5-week-3/ToDoList/obj/Debug/net5.0/Razor/Views/Categories/Edit.cshtml.g.cs
+/Users/annapittman/Desktop/c-sharp-to-do-list-dotnet5-week-3/ToDoList/bin/Debug/net5.0/Humanizer.dll
+/Users/annapittman/Desktop/c-sharp-to-do-list-dotnet5-week-3/ToDoList/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll

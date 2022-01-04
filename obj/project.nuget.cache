@@ -1,13 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "VhYmx/mEHHLxSZ8obNGxsheykfUI0MFH5VR3A05lK+BABEkuXAz1ms42Hyfx8cjoQoprGtO8JdQQSmXHarMLQQ==",
+  "dgSpecHash": "TOFxFGGd5isV+1r8POa7jjgFfDvhDCpdyF96nQnHQ8bDCKGOSvWMXmi6IbsPZ0V+JiZDCcYqDo+udeaZsho7wQ==",
   "success": true,
   "projectFilePath": "/Users/annapittman/Desktop/c-sharp-to-do-list-dotnet5-week-3/ToDoList/ToDoList.csproj",
   "expectedPackageFiles": [
     "/Users/annapittman/.nuget/packages/castle.core/4.4.1/castle.core.4.4.1.nupkg.sha512",
+    "/Users/annapittman/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/annapittman/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/annapittman/.nuget/packages/microsoft.entityframeworkcore/5.0.0/microsoft.entityframeworkcore.5.0.0.nupkg.sha512",
     "/Users/annapittman/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.0/microsoft.entityframeworkcore.abstractions.5.0.0.nupkg.sha512",
     "/Users/annapittman/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.0/microsoft.entityframeworkcore.analyzers.5.0.0.nupkg.sha512",
+    "/Users/annapittman/.nuget/packages/microsoft.entityframeworkcore.design/5.0.0/microsoft.entityframeworkcore.design.5.0.0.nupkg.sha512",
     "/Users/annapittman/.nuget/packages/microsoft.entityframeworkcore.proxies/5.0.0/microsoft.entityframeworkcore.proxies.5.0.0.nupkg.sha512",
     "/Users/annapittman/.nuget/packages/microsoft.entityframeworkcore.relational/5.0.0/microsoft.entityframeworkcore.relational.5.0.0.nupkg.sha512",
     "/Users/annapittman/.nuget/packages/microsoft.extensions.caching.abstractions/5.0.0/microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
